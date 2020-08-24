@@ -3,7 +3,7 @@
     "name": "Catherine Missal",
     "rating": 4875,
     "image_path": "https://www.gstatic.com/tv/thumb/persons/735028/735028_v9_ba.jpg",
-    "alternative_name": null,
+    "alternative_name": "",
     "objectID": "551486300"
   },
   {
@@ -17,7 +17,7 @@
     "name": "Michael Doven",
     "rating": 2647,
     "image_path": "https://assets.mubi.com/images/cast_member/92614/image-w240.jpg",
-    "alternative_name": null,
+    "alternative_name": "",
     "objectID": "551486320"
   },
   {
@@ -31,7 +31,7 @@
     "name": "Tom Cruise",
     "rating": 2237,
     "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg/330px-Tom_Cruise_by_Gage_Skidmore_2.jpg",
-    "alternative_name": null,
+    "alternative_name": "",
     "objectID": "551486340"
   }
 ]
