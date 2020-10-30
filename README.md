@@ -1,3 +1,3 @@
 # Voice-Cloning
 
-![][dash-app.gif]
+![](dash-app.gif)
